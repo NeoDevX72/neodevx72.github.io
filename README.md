@@ -1,6 +1,6 @@
 # NeoDevX — Mobile Games Privacy Policies & `app-ads.txt`
 
-Public static legal hub for **NeoDevX / Milo Island Games** Android apps, keeping all actual game source code repositories (`hatch-merge-pets`, etc.) **100% private**.
+Public static legal hub for **NeoDevX / Milo Island Games** Android apps, keeping all actual game source code repositories **100% private**.
 
 ## Live URLs
 - **Studio Developer Website / Games Hub:** `https://neodevx72.github.io/`
