@@ -1,3 +1,1 @@
-# Authorized Digital Sellers (app-ads.txt) for all NeoDevX / Milo Island Games apps.
-# Root URL: https://neodevx72.github.io/app-ads.txt
 google.com, pub-2348417958363398, DIRECT, f08c47fec0942fa0
